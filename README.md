@@ -1,1 +1,59 @@
 # Gen-Ai-project
+   2 conda create -p env python -y
+   3 source activate ./env
+   4 conda activate
+   5 pip list
+   6 ls -a
+   7 ls -a
+   8 ls-a
+   9 ls
+  10 git stutes
+  13 git add
+  14 git commit -m "save"
+  15 git add
+  16 git add .
+  17 git commit -m "save"
+  18 clean
+  19 git status
+  20 git push
+  21 git status
+  22 git add .
+  23 git commit -m "save"
+  24 origin/main
+  25 git add .
+  26 git status
+  27 pip install -r requirement.txt
+  28 pip install -r requirement.txt
+  29 pip install -r requirement.txt
+  30 pip install -r requirement.txt
+  31 pip install -r requirement.txt
+  32 pip install -r requirement.txt
+  33 pip install -r requirement.txt
+  34 pip install -r requirement.txt
+  35 pip install -r requirement.txt
+  36 pip install -r requirement.txt
+  37 pip install --upgrade setuptools...
+  38 pip show setuptools...
+  39 pip install -r requirement.txt...
+  40 pip install -r requirement.txt...
+  41 pip install -r requirement.txt...
+  42 pip install -r requirement.txt...
+  43 pip install --upgrade pip setuptools wheel...
+  44 pip install openai...
+  45 pip install -e ....
+  46 pip install -r requirement.txt
+  47 pip install -r requirement.txt
+  48 pip install -r requirement.txt
+  49 pip install --upgrade setuptools...
+  50 python -m pip show setuptools...
+  51 pip install -r requirement.txt -v...
+  52 pip uninstall setuptools...
+  53 pip install requests_mock...
+  54 pip install clyent==1.2.1...
+  55 pip install -r requirement.txt...
+  56 pip list...
+  57 pip install -r requirement.txt...
+  58 git add .
+  59 git push
+  60 git commit -m "save"
+  61 git push -f origin main
